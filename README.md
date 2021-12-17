@@ -1,1 +1,2 @@
-# Visualisation_course_labs
+# Laboratory works from Data visualisation course at UCU
+
